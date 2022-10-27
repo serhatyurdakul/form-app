@@ -1,5 +1,8 @@
 # form-app
 
+The vuelidate library and v-mask libraries were used in this project.
+You can review the project at [https://form-app-serhat-yurdakul.vercel.app] (https://form-app-serhat-yurdakul.vercel.app) 
+
 ## Project setup
 ```
 npm install
